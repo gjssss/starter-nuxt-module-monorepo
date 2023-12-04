@@ -2,6 +2,7 @@
   "name": "nuxt-module",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@8.11.0",
   "license": "MIT",
   "keywords": [],
   "sideEffects": false,
