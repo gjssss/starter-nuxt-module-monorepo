@@ -4,6 +4,6 @@
 <template>
   <div>
     Nuxt module playground!
+    <NuxtPage />
   </div>
-  <NuxtPage />
 </template>
